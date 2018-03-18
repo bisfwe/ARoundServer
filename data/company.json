@@ -1,0 +1,832 @@
+[
+  {
+    "name": "3M Company",
+    "tickersymbol": "MMM",
+    "products": ["Post-it", "Post it", "Postit"]
+  },
+  {
+    "tickersymbol": "ABBN",
+    "name": "ABB Ltd"
+  },
+  {
+    "tickersymbol": "ABT",
+    "name": "Abbott Laboratories"
+  },
+  {
+    "name": "Addex Therapeutics Ltd",
+    "tickersymbol": "ADXN"
+  },
+  {
+    "tickersymbol": "ADEN",
+    "name": "Adecco Group AG"
+  },
+  {
+    "name": "Adval Tech Holding AG",
+    "tickersymbol": "ADVN"
+  },
+  {
+    "tickersymbol": "AEVS",
+    "name": "AEVIS VICTORIA SA"
+  },
+  {
+    "name": "Airesis SA",
+    "tickersymbol": "AIRE"
+  },
+  {
+    "tickersymbol": "AIRN",
+    "name": "Airopack Technology Group AG"
+  },
+  {
+    "tickersymbol": "ALLN",
+    "name": "Allreal Holding AG"
+  },
+  {
+    "name": "Alpine Select AG",
+    "tickersymbol": "ALPN"
+  },
+  {
+    "tickersymbol": "ALPH",
+    "name": "Alpiq Holding AG"
+  },
+  {
+    "tickersymbol": "ALSN",
+    "name": "ALSO Holding AG"
+  },
+  {
+    "tickersymbol": "AMS",
+    "name": "ams AG"
+  },
+  {
+    "tickersymbol": "AAM",
+    "name": "Anglo American plc"
+  },
+  {
+    "name": "APG SGA SA",
+    "tickersymbol": "APGN"
+  },
+  {
+    "tickersymbol": "ARBN",
+    "name": "Arbonia AG"
+  },
+  {
+    "tickersymbol": "ARON",
+    "name": "Arundel AG"
+  },
+  {
+    "name": "ARYZTA AG",
+    "tickersymbol": "ARYN"
+  },
+  {
+    "name": "Ascom Holding AG",
+    "tickersymbol": "ASCN"
+  },
+  {
+    "name": "Autoneum Holding AG",
+    "tickersymbol": "AUTN"
+  },
+  {
+    "tickersymbol": "BANB",
+    "name": "Bachem Holding AG"
+  },
+  {
+    "name": "Bank Cler AG",
+    "tickersymbol": "BC"
+  },
+  {
+    "tickersymbol": "LINN",
+    "name": "Bank Linth LLB AG"
+  },
+  {
+    "name": "Banque Cantonale du Jura SA",
+    "tickersymbol": "BCJ"
+  },
+  {
+    "name": "Banque Cantonale Vaudoise",
+    "tickersymbol": "BCVN"
+  },
+  {
+    "name": "Barry Callebaut AG",
+    "tickersymbol": "BARN"
+  },
+  {
+    "tickersymbol": "BLKB",
+    "name": "Basellandschaftliche Kantonalbank"
+  },
+  {
+    "tickersymbol": "BAS",
+    "name": "BASF SE"
+  },
+  {
+    "tickersymbol": "BSLN",
+    "name": "Basilea Pharmaceutica AG"
+  },
+  {
+    "name": "Basler Kantonalbank",
+    "tickersymbol": "BSKP"
+  },
+  {
+    "tickersymbol": "BION",
+    "name": "BB Biotech AG"
+  },
+  {
+    "name": "BELIMO Holding AG",
+    "tickersymbol": "BEAN"
+  },
+  {
+    "name": "Bell Food Group AG",
+    "tickersymbol": "BELL",
+    "products": ["Bell"]
+  },
+  {
+    "name": "Bellevue Group AG",
+    "tickersymbol": "BBN"
+  },
+  {
+    "tickersymbol": "BEKN",
+    "name": "Berner Kantonalbank AG"
+  },
+  {
+    "tickersymbol": "BLIN",
+    "name": "BFW Liegenschaften AG"
+  },
+  {
+    "name": "BKW AG",
+    "tickersymbol": "BKW"
+  },
+  {
+    "name": "Bobst Group SA",
+    "tickersymbol": "BOBNN"
+  },
+  {
+    "tickersymbol": "BOSN",
+    "name": "Bossard Holding AG"
+  },
+  {
+    "tickersymbol": "BUCN",
+    "name": "Bucher Industries AG"
+  },
+  {
+    "name": "Burckhardt Compression Holding AG",
+    "tickersymbol": "BCHN"
+  },
+  {
+    "tickersymbol": "BRKN",
+    "name": "Burkhalter Holding AG"
+  },
+  {
+    "name": "BVZ Holding AG",
+    "tickersymbol": "BVZN"
+  },
+  {
+    "name": "Calida Holding AG",
+    "tickersymbol": "CALN"
+  },
+  {
+    "tickersymbol": "GAV",
+    "name": "Carlo Gavazzi Holding AG"
+  },
+  {
+    "tickersymbol": "CASN",
+    "name": "Castle Alternative Invest AG"
+  },
+  {
+    "tickersymbol": "CPEN",
+    "name": "Castle Private Equity AG"
+  },
+  {
+    "name": "Cembra Money Bank AG",
+    "tickersymbol": "CMBN"
+  },
+  {
+    "tickersymbol": "CPGN",
+    "name": "Cham Group AG"
+  },
+  {
+    "tickersymbol": "CIE",
+    "name": "CI Com SA"
+  },
+  {
+    "tickersymbol": "CLN",
+    "name": "Clariant AG"
+  },
+  {
+    "tickersymbol": "CLTN",
+    "name": "COLTENE Holding AG"
+  },
+  {
+    "tickersymbol": "COTN",
+    "name": "Comet Holding AG"
+  },
+  {
+    "name": "Commerzbank AG",
+    "tickersymbol": "COM"
+  },
+  {
+    "tickersymbol": "CON",
+    "name": "Conzzeta AG"
+  },
+  {
+    "tickersymbol": "CLXN",
+    "name": "Crealogix Holding AG"
+  },
+  {
+    "name": "Credit Suisse Group AG",
+    "tickersymbol": "CSGN"
+  },
+  {
+    "name": "Danone",
+    "tickersymbol": "DAN",
+    "products": ["Evian"]
+  },
+  {
+    "name": "Datacolor AG",
+    "tickersymbol": "DCN"
+  },
+  {
+    "name": "DKSH Holding AG",
+    "tickersymbol": "DKSH"
+  },
+  {
+    "tickersymbol": "DOKA",
+    "name": "dormakaba Holding AG"
+  },
+  {
+    "name": "Dottikon ES Holding AG",
+    "tickersymbol": "DESN"
+  },
+  {
+    "name": "Dufry AG",
+    "tickersymbol": "DUFN"
+  },
+  {
+    "tickersymbol": "EPH",
+    "name": "Eastern Property Holdings Limited"
+  },
+  {
+    "tickersymbol": "ESUN",
+    "name": "Edisun Power Europe AG"
+  },
+  {
+    "name": "EEII AG",
+    "tickersymbol": "EEII"
+  },
+  {
+    "tickersymbol": "EFGN",
+    "name": "EFG International AG"
+  },
+  {
+    "name": "Eli Lilly and Company",
+    "tickersymbol": "LLY"
+  },
+  {
+    "name": "Elma Electronic AG",
+    "tickersymbol": "ELMN"
+  },
+  {
+    "name": "Emmi AG",
+    "tickersymbol": "EMMN"
+  },
+  {
+    "tickersymbol": "EDHN",
+    "name": "Energiedienst Holding AG"
+  },
+  {
+    "tickersymbol": "RUS",
+    "name": "ENR Russia Invest SA"
+  },
+  {
+    "tickersymbol": "EVE",
+    "name": "Evolva Holding SA"
+  },
+  {
+    "tickersymbol": "FTON",
+    "name": "Feintool International Holding AG"
+  },
+  {
+    "name": "Forbo Holding AG",
+    "tickersymbol": "FORN"
+  },
+  {
+    "name": "Galenica AG",
+    "tickersymbol": "GALE"
+  },
+  {
+    "tickersymbol": "GAM",
+    "name": "GAM Holding AG"
+  },
+  {
+    "tickersymbol": "GEBN",
+    "name": "Geberit AG"
+  },
+  {
+    "tickersymbol": "FI-N",
+    "name": "Georg Fischer AG"
+  },
+  {
+    "name": "Givaudan SA",
+    "tickersymbol": "GIVN"
+  },
+  {
+    "name": "Glarner Kantonalbank",
+    "tickersymbol": "GLKBN"
+  },
+  {
+    "tickersymbol": "GOLI",
+    "name": "Gold Fields Limited"
+  },
+  {
+    "name": "Goldbach Group AG",
+    "tickersymbol": "GBMN"
+  },
+  {
+    "name": "Groupe Baumgartner Holding SA",
+    "tickersymbol": "BAP"
+  },
+  {
+    "name": "Groupe Minoteries SA",
+    "tickersymbol": "GMI"
+  },
+  {
+    "tickersymbol": "GUR",
+    "name": "Gurit Holding AG"
+  },
+  {
+    "name": "HBM Healthcare Investments AG",
+    "tickersymbol": "HBMN"
+  },
+  {
+    "name": "Helvetia Holding AG",
+    "tickersymbol": "HELN"
+  },
+  {
+    "tickersymbol": "HIAG",
+    "name": "HIAG Immobilien Holding AG"
+  },
+  {
+    "tickersymbol": "HLEE",
+    "name": "Highlight Event and Entertainment AG"
+  },
+  {
+    "name": "HOCHDORF Holding AG",
+    "tickersymbol": "HOCN"
+  },
+  {
+    "tickersymbol": "HBLN",
+    "name": "Hypothekarbank Lenzburg AG"
+  },
+  {
+    "tickersymbol": "IDIA",
+    "name": "Idorsia Ltd"
+  },
+  {
+    "name": "Implenia AG",
+    "tickersymbol": "IMPN"
+  },
+  {
+    "name": "INFICON Holding AG",
+    "tickersymbol": "IFCN"
+  },
+  {
+    "tickersymbol": "INRN",
+    "name": "Interroll Holding AG"
+  },
+  {
+    "name": "Intershop Holding AG",
+    "tickersymbol": "ISN"
+  },
+  {
+    "tickersymbol": "IREN",
+    "name": "Investis Holding SA"
+  },
+  {
+    "tickersymbol": "VBSN",
+    "name": "IVF HARTMANN Holding AG"
+  },
+  {
+    "name": "Jungfraubahn Holding AG",
+    "tickersymbol": "JFN"
+  },
+  {
+    "tickersymbol": "KARN",
+    "name": "Kardex AG"
+  },
+  {
+    "name": "Komax Holding AG",
+    "tickersymbol": "KOMN"
+  },
+  {
+    "name": "KTM Industries AG",
+    "tickersymbol": "KTMI"
+  },
+  {
+    "tickersymbol": "LHN",
+    "name": "LafargeHolcim Ltd"
+  },
+  {
+    "tickersymbol": "LEHN",
+    "name": "LEM Holding SA"
+  },
+  {
+    "name": "Leonteq AG",
+    "tickersymbol": "LEON"
+  },
+  {
+    "tickersymbol": "LLBN",
+    "name": "Liechtensteinische Landesbank AG"
+  },
+  {
+    "name": "Lonza Group AG",
+    "tickersymbol": "LONN"
+  },
+  {
+    "tickersymbol": "LUMX",
+    "name": "LumX Group Limited"
+  },
+  {
+    "tickersymbol": "LUKN",
+    "name": "Luzerner Kantonalbank AG"
+  },
+  {
+    "tickersymbol": "MCHN",
+    "name": "MCH Group AG"
+  },
+  {
+    "name": "Metall Zug AG",
+    "tickersymbol": "METN"
+  },
+  {
+    "name": "Meyer Burger Technology AG",
+    "tickersymbol": "MBTN"
+  },
+  {
+    "tickersymbol": "MIKN",
+    "name": "Mikron Holding AG"
+  },
+  {
+    "tickersymbol": "MOZN",
+    "name": "mobilezone holding ag"
+  },
+  {
+    "tickersymbol": "MOBN",
+    "name": "Mobimo Holding AG"
+  },
+  {
+    "name": "Molecular Partners AG",
+    "tickersymbol": "MOLN"
+  },
+  {
+    "tickersymbol": "MYRN",
+    "name": "Myriad Group AG"
+  },
+  {
+    "name": "NEBAG AG",
+    "tickersymbol": "NBEN"
+  },
+  {
+    "tickersymbol": "NEWN",
+    "name": "New Value AG"
+  },
+  {
+    "tickersymbol": "NEV",
+    "name": "New Venturetec AG"
+  },
+  {
+    "tickersymbol": "NIBEB",
+    "name": "NIBE Industrier AB"
+  },
+  {
+    "tickersymbol": "NOVN",
+    "name": "Novartis AG"
+  },
+  {
+    "tickersymbol": "OERL",
+    "name": "OC Oerlikon Corporation AG"
+  },
+  {
+    "name": "Orascom Development Holding AG",
+    "tickersymbol": "ODHN"
+  },
+  {
+    "tickersymbol": "ORON",
+    "name": "Orior AG"
+  },
+  {
+    "tickersymbol": "PARG",
+    "name": "Pargesa Holding SA"
+  },
+  {
+    "name": "Partners Group Holding AG",
+    "tickersymbol": "PGHN"
+  },
+  {
+    "tickersymbol": "PEDU",
+    "name": "Perrot Duval Holding SA"
+  },
+  {
+    "tickersymbol": "PMI",
+    "name": "Philip Morris International Inc"
+  },
+  {
+    "name": "Phoenix Mecano AG",
+    "tickersymbol": "PM"
+  },
+  {
+    "tickersymbol": "PLAN",
+    "name": "PLAZZA AG"
+  },
+  {
+    "name": "Poenina Holding AG",
+    "tickersymbol": "PNHO"
+  },
+  {
+    "name": "Private Equity Holding AG",
+    "tickersymbol": "PEHN"
+  },
+  {
+    "name": "PSP Swiss Property AG",
+    "tickersymbol": "PSPN"
+  },
+  {
+    "tickersymbol": "RAP",
+    "name": "Rapid Nutrition PLC"
+  },
+  {
+    "tickersymbol": "RLF",
+    "name": "RELIEF THERAPEUTICS Holding AG"
+  },
+  {
+    "tickersymbol": "RIEN",
+    "name": "Rieter Holding AG"
+  },
+  {
+    "tickersymbol": "RO",
+    "name": "Roche Holding AG"
+  },
+  {
+    "tickersymbol": "ROG",
+    "name": "Roche Holding AG"
+  },
+  {
+    "name": "Romande Energie Holding SA",
+    "tickersymbol": "HREN"
+  },
+  {
+    "name": "Royal Bank of Canada",
+    "tickersymbol": "RY"
+  },
+  {
+    "tickersymbol": "SANN",
+    "name": "Santhera Pharmaceuticals Holding AG"
+  },
+  {
+    "tickersymbol": "SAHN",
+    "name": "Schaffner Holding AG"
+  },
+  {
+    "name": "Schindler Holding AG",
+    "tickersymbol": "SCHN"
+  },
+  {
+    "tickersymbol": "SCHP",
+    "name": "Schindler Holding AG"
+  },
+  {
+    "tickersymbol": "STRN",
+    "name": "Schlatter Industries AG"
+  },
+  {
+    "name": "Schlumberger Limited",
+    "tickersymbol": "SLB"
+  },
+  {
+    "name": "Schweiter Technologies AG",
+    "tickersymbol": "SWTQ"
+  },
+  {
+    "tickersymbol": "SNBN",
+    "name": "Schweizerische Nationalbank"
+  },
+  {
+    "name": "Scor SE",
+    "tickersymbol": "SCR"
+  },
+  {
+    "name": "SFS Group AG",
+    "tickersymbol": "SFSN"
+  },
+  {
+    "name": "SGS AG",
+    "tickersymbol": "SGSN"
+  },
+  {
+    "tickersymbol": "SFZN",
+    "name": "Siegfried Holding AG"
+  },
+  {
+    "name": "Sika AG",
+    "tickersymbol": "SIK"
+  },
+  {
+    "name": "Sociedad Comercial del Plata SA",
+    "tickersymbol": "CADN"
+  },
+  {
+    "tickersymbol": "SOON",
+    "name": "Sonova Holding AG"
+  },
+  {
+    "name": "Spice Private Equity AG",
+    "tickersymbol": "SPCE"
+  },
+  {
+    "name": "Starrag Group Holding AG",
+    "tickersymbol": "STGN"
+  },
+  {
+    "tickersymbol": "STMN",
+    "name": "Straumann Holding AG"
+  },
+  {
+    "name": "Sulzer AG",
+    "tickersymbol": "SUN"
+  },
+  {
+    "name": "Sunrise Communications Group AG",
+    "tickersymbol": "SRCG"
+  },
+  {
+    "name": "Swiss Life Holding AG",
+    "tickersymbol": "SLHN"
+  },
+  {
+    "tickersymbol": "SPSN",
+    "name": "Swiss Prime Site AG"
+  },
+  {
+    "tickersymbol": "SREN",
+    "name": "Swiss Re AG"
+  },
+  {
+    "tickersymbol": "SCMN",
+    "name": "Swisscom AG"
+  },
+  {
+    "name": "Swissquote Group Holding Ltd",
+    "tickersymbol": "SQN"
+  },
+  {
+    "tickersymbol": "TAMN",
+    "name": "Tamedia AG",
+    "products": ["20min", "20minuten", "20 Minuten"]
+  },
+  {
+    "name": "Tecan Group AG",
+    "tickersymbol": "TECN"
+  },
+  {
+    "tickersymbol": "TEMN",
+    "name": "Temenos Group AG"
+  },
+  {
+    "tickersymbol": "TEMN",
+    "name": "Temenos Group AG"
+  },
+  {
+    "name": "The Native SA",
+    "tickersymbol": "NTIV"
+  },
+  {
+    "name": "The Swatch Group AG",
+    "tickersymbol": "UHR"
+  },
+  {
+    "name": "The Swatch Group AG",
+    "tickersymbol": "UHRN"
+  },
+  {
+    "tickersymbol": "TKBP",
+    "name": "Thurgauer Kantonalbank"
+  },
+  {
+    "tickersymbol": "TOHN",
+    "name": "Tornos Holding AG"
+  },
+  {
+    "name": "UBS Group AG",
+    "tickersymbol": "UBSG"
+  },
+  {
+    "tickersymbol": "UIS",
+    "name": "Unisys Corporation"
+  },
+  {
+    "name": "Valartis Group AG",
+    "tickersymbol": "VLRT"
+  },
+  {
+    "tickersymbol": "VATN",
+    "name": "Valiant Holding AG"
+  },
+  {
+    "tickersymbol": "VALN",
+    "name": "Valora Holding AG"
+  },
+  {
+    "tickersymbol": "VARN",
+    "name": "Varia US Properties AG"
+  },
+  {
+    "tickersymbol": "VACN",
+    "name": "VAT Group AG"
+  },
+  {
+    "tickersymbol": "VAHN",
+    "name": "Vaudoise Assurances Holding SA"
+  },
+  {
+    "tickersymbol": "VET",
+    "name": "Vetropack Holding AG"
+  },
+  {
+    "name": "Vifor Pharma AG",
+    "tickersymbol": "VIFN"
+  },
+  {
+    "tickersymbol": "VW",
+    "name": "Volkswagen AG"
+  },
+  {
+    "tickersymbol": "VW-V",
+    "name": "Volkswagen AG"
+  },
+  {
+    "tickersymbol": "ROL",
+    "name": "Von Roll Holding AG"
+  },
+  {
+    "tickersymbol": "VONN",
+    "name": "Vontobel Holding AG"
+  },
+  {
+    "name": "VP Bank AG",
+    "tickersymbol": "VPBN"
+  },
+  {
+    "name": "VZ Holding AG",
+    "tickersymbol": "VZN"
+  },
+  {
+    "name": "Walliser Kantonalbank",
+    "tickersymbol": "WKBN"
+  },
+  {
+    "tickersymbol": "WMN",
+    "name": "Walter Meier AG"
+  },
+  {
+    "tickersymbol": "WARN",
+    "name": "Warteck Invest AG"
+  },
+  {
+    "tickersymbol": "WIHN",
+    "name": "WISeKey International Holding Ltd"
+  },
+  {
+    "name": "Ypsomed Holding AG",
+    "tickersymbol": "YPSN"
+  },
+  {
+    "name": "Zehnder Group AG",
+    "tickersymbol": "ZEHN"
+  },
+  {
+    "tickersymbol": "ZUGN",
+    "name": "Zug Estates Holding AG"
+  },
+  {
+    "name": "Zuger Kantonalbank AG",
+    "tickersymbol": "ZG"
+  },
+  {
+    "name": "Zur Rose Group AG",
+    "tickersymbol": "ROSE"
+  },
+  {
+    "tickersymbol": "ZURN",
+    "name": "Zurich Insurance Group AG"
+  },
+  {
+    "tickersymbol": "LISN",
+    "name": "Chocoladefabriken Lindt & Sprüngli AG"
+  },
+  {
+    "tickersymbol": "LOGN",
+    "name": "Logitech International S.A.",
+    "products" : ["Logitech"]
+  },
+  {
+    "tickersymbol": "NESN",
+    "name": "Nestlé AG ",
+    "products": ["KitKat", "Kit Kat", "Nestea", "Nespresso", "Nestle"]
+  }
+]
